@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://arabic-dreams.github.io/Arabic-dreams/sitemap.xml
