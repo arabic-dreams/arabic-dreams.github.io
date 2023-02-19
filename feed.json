@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "أحلام العرب",
     "description": "",
-    "home_page_url": "https://arabic-dreams.github.io/Arabic-dreams",
-    "feed_url": "https://arabic-dreams.github.io/Arabic-dreams/feed.json",
+    "home_page_url": "https://arabic-dreams.github.io",
+    "feed_url": "https://arabic-dreams.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "ماجد مروان"
